@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3IMCApp</string>
+    <string name="titulo_principal">BODY MASS INDEX</string>
+    <string name="leyenda_peso">Weight ( Kg ):</string>
+    <string name="leyenda_estatura">Height ( m ):</string>
+    <string name="btn_calcular">Calculate BMI</string>
+    <string name="btn_plato">Healthy Eating Plate</string>
+    <string name="btn_acerca_de">About ...</string>
+    <string name="acerca_de_version">Version: 1.1</string>
+    <string name="acerca_de_fecha">Date: 03/06/2024</string>
+    <string name="recom_uno">1. Include at least one food from each food group (vegetables and fruits; cereals and tubers, legumes and animal products) in each of the three meals a day.</string>
+    <string name="recom_dos">"2. Eat as much variety of foods as possible: - Lots of vegetables and fruits, as much as possible raw and with peel. - Enough cereals (tortillas, whole wheat bread, pasta and crackers, rice or oatmeal) combined with legumes (beans, lentils, lima beans or chickpeas). - Few foods of animal origin, preferring fish or chicken, without skin, to pork, lamb, kid or beef. "</string>
+    <string name="recom_tres">3. Eat according to your needs and conditions. No more, no less.</string>
+    <string name="recom_cuatro">"4. Consume as little fat, oils, sugar and salt as possible: - Prefer oils to lard, butter or margarine. - Cook with little salt, sweeten with little sugar, do not put it on the table and moderate the consumption of products that contain them in excess. "</string>
+    <string name="recom_cinco">5. Drink plenty of pure water.</string>
+    <string name="recom_seis">"6. Ensure maximum hygiene when storing, preparing and consuming food: - Drink only boiled water or water disinfected with chlorine or colloidal silver. - Wash and disinfect vegetables and fruits that are eaten raw. - Wash your hands with soap and water before eating and after using the toilet or changing diapers. - Fish and shellfish should be eaten well cooked. "</string>
+    <string name="recom_siete">"7. Accumulate 30 minutes of physical activity a day. - Start with periods of 5 to 10 minutes and gradually increase the time. - Try to get your heart rate up and your breathing faster but be able to talk without suffocating. "</string>
+    <string name="recom_ocho">8. Maintain a healthy weight, the excess and lack of it favors the development of health problems.</string>
+    <string name="recom_nueve">9. If you drink alcoholic beverages, do not drink more than two drinks a day and do it only with food. Avoid smoking, if you smoke try to quit, the sooner the better.</string>
+    <string name="recom_fuente">Source: ISSSTE</string>
+    <string name="pdbc_titulo">Healthy Eating Plate</string>
+    <string name="siglas_app">BMI</string>
+    <string name="leyenda_imc_calculado">Body Mass Index is:</string>
+    <string name="leyenda_condicion_salud">Your health condition is:</string>
+    <string name="btn_aceptar">OK</string>
+    <string name="btn_recomendaciones">Recommendations</string>
+    <string name="aviso_campos">The fields must be filled in correctly</string>
+    <string name="imc_delgadez_muy_severa">Underweight</string>
+    <string name="imc_delgadez_severa">Underweight</string>
+    <string name="imc_delgadez">Underweight</string>
+    <string name="imc_normal">Normal weight</string>
+    <string name="imc_sobrepeso">Overweight</string>
+    <string name="imc_obesidad_moderada">Obesity Class I</string>
+    <string name="imc_obesidad_severa">Obesity Class II</string>
+    <string name="imc_obesidad_muy_severa">Obesty Class III</string>
+    <string name="acerca_de_alumno">Student: 20130785 Ivanovicx Nuñez Perez</string>
+</resources>

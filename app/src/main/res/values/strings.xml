@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">U3IMCApp</string>
+    <string name="titulo_principal">ÍNDICE DE MASA CORPORAL</string>
+    <string name="leyenda_peso">Peso ( Kg ):</string>
+    <string name="leyenda_estatura">Estatura ( m )</string>
+    <string name="btn_calcular">Calcular IMC</string>
+    <string name="btn_plato">Plato del buen comer</string>
+    <string name="btn_acerca_de">Acerca De</string>
+    <string name="acerca_de_version">Versión: 1.1</string>
+    <string name="acerca_de_fecha">Fecha: 06/03/2024</string>
+    <string name="recom_uno">1. Incluye al menos un alimento de cada grupo (verduras y frutas; cereales y tubérculos, leguminosas y productos de origen animal) en cada una de las tres comidas al día.</string>
+    <string name="recom_dos">2. Come la mayor variedad posible de alimentos: •\tMuchas verduras y frutas, en lo posible crudas y con cáscara. •\tSuficientes cereales (tortilla, pan integral, pastas y galletas, arroz o avena) combinados con leguminosas (frijoles, lentejas, habas o garbanzos). •\tPocos alimentos de origen animal, prefiere el pescado o el pollo, sin piel, a las carnes de cerdo, borrego, cabrito o res.</string>
+    <string name="recom_tres">3. Come de acuerdo con sus necesidades y condiciones. Ni más, ni menos.</string>
+    <string name="recom_cuatro">4. Consume lo menos posible de grasa, aceites, azúcar y sal: •\tPrefiere los aceites a la manteca, mantequilla o margarina. •\tCocina con poca sal, endulza con poca azúcar, no la pongas en la mesa y modera el consumo de productos que los contengan en exceso.</string>
+    <string name="recom_cinco">5. Bebe agua pura en abundancia.</string>
+    <string name="recom_seis">6. Procura la máxima higiene al almacenar, preparar y consumir los alimentos: •\tBebe unicamente agua hervida o desinfectada con cloro o plata coloidal. •\tLava y desinfecta las verduras y frutas que se comen crudas. •\tLávete las manos con agua y jabón antes de comer y después de ir al baño o cambiar pañales. •\tLos pescados y mariscos deben consumirse bien cocidos.</string>
+    <string name="recom_siete">7. Acumula 30 minutos de actividad física al día. •\tInicia por periodos de 5 a 10 minutos e incrementa poco a poco el tiempo. •\tProcura que se acelere tu corazón y tu respiración se haga más rápida pero que puedas hablar sin sofocarte.</string>
+    <string name="recom_ocho">8. Mantén un peso saludable, el exceso y la falta de éste favorecen el desarrollo de problemas de salud.</string>
+    <string name="recom_nueve">9. Si tomas bebidas alcohólicas, no bebas más de dos copas al día y hazlo sólo con alimentos. Evita fumar, si fumas trata de dejarlo, mientras más pronto mejor.</string>
+    <string name="recom_fuente">Fuente: ISSSTE</string>
+    <string name="pdbc_titulo">Plato del Buen Comer</string>
+    <string name="siglas_app">IMC</string>
+    <string name="leyenda_imc_calculado">El Índice de Masa Corporal calculado:</string>
+    <string name="leyenda_condicion_salud">La condición de salud es:</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_recomendaciones">Recomendaciones</string>
+    <string name="aviso_campos">Los campos deben ser llenados correctamente</string>
+    <string name="imc_delgadez_muy_severa">Delgadez muy severa</string>
+    <string name="imc_delgadez_severa">Delgadez severa</string>
+    <string name="imc_delgadez">Delgadez</string>
+    <string name="imc_normal">Peso saludable</string>
+    <string name="imc_sobrepeso">Sobrepeso</string>
+    <string name="imc_obesidad_moderada">Obesidad moderada</string>
+    <string name="imc_obesidad_severa">Obesidad severa</string>
+    <string name="imc_obesidad_muy_severa">Obesidad muy severa</string>
+    <string name="acerca_de_alumno">Alumno: 20130785 Ivanovicx Nuñez Perez</string>
+</resources>
